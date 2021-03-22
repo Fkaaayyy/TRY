@@ -1,0 +1,44 @@
+1) "~" = Cartella Home dell'utente
+2) "/" = Macintosh HD dell'utente
+3) "cd NomeCartella" = Per passare da una cartella ad un'altra
+4) "ls" = listare il contenuto di una cartella
+5) "ls -a" listare anche i contenuti nascosti (files di sistema) di una cartella
+6) "mkdir NomeCartella" = Creare una nuova cartella
+7) "touch NomeFile" = Creare un nuovo file di testo
+8) "clear": ripulisce la finestra del terminale
+
+1) "ls -r": visualizza tutto il contenuto di cartelle & sottocartelle a partire dal livello in cui ci si trova
+2) "ls -g": distingue i tipi di files in una cartella con colori diversi;
+3) "ls -l": visualizza moltissime info sui file di una cartella
+(inclusi i famosi "permessi");
+4) Approfondiamo il comando "cd"
+5) "rm NomeFile": cancella quel particolare file
+6) "rmdir NomeCartella": cancella quella particolare cartella
+7) "rm -r NomeCartella": cancella quella particolare cartella
+
+1) "mv percorso-file percorso-cartella/": muove qualsiasi file in qualsiasi punto dell'hard disk del Mac;
+2) freccia cursore in alto: re-immette l'ultimo comando utilizzato;
+3) "file percorso-file": fornisce informazioni sul file specificato;
+4) "date": dà la data e l'ora attuali;
+5) "cal": visualizza il calendario del mese corrente;
+6) "cal -y": visualizza il calendario dell'anno corrente;
+
+1) 'mv  percorso-file  percorso-cartella' = SPOSTA un file;
+2) 'cp  percorso-file  percorso-cartella' = COPIA un file;
+3) 'open percorso-app' = apre una applicazione;
+4) 'open -a nome-app' = apre una applicazione (senza percorso);
+5) 'open -a "nome-app" ' = apre una app con nome composto da più parole (usare le virgolette);
+6) 'KillAll nome-app' = chiude una App;
+
+ENTRARE IN UN MAC 
+mount -uw / 
+rm /var/db/.applesetupdone
+shutdown -h now
+
+TROVARE UN IP 
+
+WHATISMYIPADRESS
+IPADRESS
+
+ETHICAL HACKING 
+https://www.youtube.com/watch?v=dz7Ntp7KQGA
